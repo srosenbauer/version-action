@@ -9,7 +9,7 @@ categories:
       - 'hotfix'
   - title: '🐛 Bug Fixes'
     labels:
-      - 'bugfix'
+      - 'bug'
   - title: '🧰 Maintenance'
     label: 'maintenance'
   - title: '👮 Security'
